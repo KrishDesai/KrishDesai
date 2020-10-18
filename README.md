@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+My name is Krish Desai. A 14 year old coder, entrepreneur and thinker. I am currently learning and expanding my skillset in both Java and HTML/CSS. Enjoy a tour of my profile! You might see something cool 😎 
+
+🔭 I am currently working on two things; expanding my development based organization called World of Devs (check it on instagram at @theworldofdevs) and launching my first ever startup (took me long enough 😓 )
+
+
 
 <!--
 **KrishDesai/KrishDesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
