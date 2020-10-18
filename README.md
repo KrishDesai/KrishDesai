@@ -5,8 +5,9 @@ My name is Krish Desai. A 14 year old coder, entrepreneur and thinker. I am curr
 🔭 I am currently working on two things; expanding my development based organization called World of Devs (check it on Instagram at @theworldofdevs) and launching my first ever startup (took me long enough 😓 )
 
 ☎️ If you want to reach me, here is how:
-Instagram: @thekrishdesai
-Linkedin: https://www.linkedin.com/in/desaikrish/
+- Instagram: @thekrishdesai
+
+- Linkedin: https://www.linkedin.com/in/desaikrish/
 
 
 
